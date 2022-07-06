@@ -3,15 +3,15 @@ Africa,Algeria
 Africa,Angola
 Africa,Benin
 Africa,Botswana
-Africa,Burkina
+Africa,Burkina Faso
 Africa,Burundi
 Africa,Cameroon
 Africa,Cape Verde
-Africa,Central African Republic
+Africa,Central African Republic CAR
 Africa,Chad
 Africa,Comoros
-Africa,Congo
-Africa,"Congo, Democratic Republic of"
+Africa,Congo Brazzaville
+Africa,Congo Democratic Republic
 Africa,Djibouti
 Africa,Egypt
 Africa,Equatorial Guinea
@@ -21,8 +21,8 @@ Africa,Gabon
 Africa,Gambia
 Africa,Ghana
 Africa,Guinea
-Africa,Guinea-Bissau
-Africa,Ivory Coast
+Africa,Guinea Bissau
+Africa,Cote d'Ivoire
 Africa,Kenya
 Africa,Lesotho
 Africa,Liberia
@@ -38,7 +38,7 @@ Africa,Namibia
 Africa,Niger
 Africa,Nigeria
 Africa,Rwanda
-Africa,Sao Tome and Principe
+Africa,Sao Tome & Principe
 Africa,Senegal
 Africa,Seychelles
 Africa,Sierra Leone
@@ -46,7 +46,7 @@ Africa,Somalia
 Africa,South Africa
 Africa,South Sudan
 Africa,Sudan
-Africa,Swaziland
+Africa,Eswatini
 Africa,Tanzania
 Africa,Togo
 Africa,Tunisia
@@ -57,11 +57,11 @@ Asia,Afghanistan
 Asia,Bahrain
 Asia,Bangladesh
 Asia,Bhutan
-Asia,Brunei
-Asia,Burma (Myanmar)
+Asia,Brunei Darussalam
+Asia,Myanmar
 Asia,Cambodia
 Asia,China
-Asia,East Timor
+Asia,Timor Leste
 Asia,India
 Asia,Indonesia
 Asia,Iran
@@ -71,10 +71,10 @@ Asia,Japan
 Asia,Jordan
 Asia,Kazakhstan
 Asia,"Korea, North"
-Asia,"Korea, South"
+Asia,South Korea
 Asia,Kuwait
 Asia,Kyrgyzstan
-Asia,Laos
+Asia,Lao
 Asia,Lebanon
 Asia,Malaysia
 Asia,Maldives
@@ -82,6 +82,7 @@ Asia,Mongolia
 Asia,Nepal
 Asia,Oman
 Asia,Pakistan
+Asia,Palestine
 Asia,Philippines
 Asia,Qatar
 Asia,Russian Federation
@@ -108,7 +109,7 @@ Europe,Bosnia and Herzegovina
 Europe,Bulgaria
 Europe,Croatia
 Europe,Cyprus
-Europe,CZ
+Europe,Czech Republic
 Europe,Denmark
 Europe,Estonia
 Europe,Finland
@@ -120,15 +121,16 @@ Europe,Hungary
 Europe,Iceland
 Europe,Ireland
 Europe,Italy
+Europe,Kosovo
 Europe,Latvia
 Europe,Liechtenstein
 Europe,Lithuania
 Europe,Luxembourg
-Europe,Macedonia
+Europe,North Macedonia
 Europe,Malta
 Europe,Moldova
 Europe,Monaco
-Europe,Montenegro
+Europe,Monte Negro
 Europe,Netherlands
 Europe,Norway
 Europe,Poland
@@ -165,13 +167,13 @@ North America,Panama
 North America,Saint Kitts and Nevis
 North America,Saint Lucia
 North America,Saint Vincent and the Grenadines
-North America,Trinidad and Tobago
-North America,US
+North America,Trinidad & Tobago
+North America,United States
 Oceania,Australia
 Oceania,Fiji
 Oceania,Kiribati
 Oceania,Marshall Islands
-Oceania,Micronesia
+Oceania,Micronesia (Federated States of)
 Oceania,Nauru
 Oceania,New Zealand
 Oceania,Palau
@@ -184,7 +186,7 @@ Oceania,Vanuatu
 South America,Argentina
 South America,Bolivia
 South America,Brazil
-South America,Chile
+South America,Chili
 South America,Colombia
 South America,Ecuador
 South America,Guyana
